@@ -80,3 +80,25 @@ footer {
     padding: 1.2rem;
   }
 }
+.skill {
+  margin: 1rem 0;
+}
+
+.bar {
+  background-color: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 20px;
+}
+
+.progress {
+  background-color: #667eea;
+  height: 100%;
+  width: 0;
+  animation: fill 2s ease-out forwards;
+}
+
+@keyframes fill {
+  from { width: 0; }
+}
+
