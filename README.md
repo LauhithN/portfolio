@@ -5,7 +5,7 @@
   <header>
     <div class="container">
       <h1>My Portfolio</h1>
-      <p># Data Analyst</p>
+      <p># Business Analyst</p>
     </div>
   </header>
 
