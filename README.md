@@ -28,7 +28,7 @@
 
   <footer>
     <div class="container">
-      <p>© 2025 Your Name | Built with ❤️ and GitHub Pages</p>
+      <p>© 2025 Lauhith Natarajan | Built with GitHub Pages</p>
     </div>
   </footer>
 </body>
